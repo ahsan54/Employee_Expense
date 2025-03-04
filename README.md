@@ -9,5 +9,7 @@
 6: On Approve emails sent to finance group users: ![image](https://github.com/user-attachments/assets/36137d1c-274b-413f-8cdf-0925a1604bd4)
 7: create payment form opens with some prefilled details ![image](https://github.com/user-attachments/assets/ba1fe797-828a-492e-a496-9bab0b669138)
 8: Jv Created Of That Payment 
+9: Users Can Track Their Submitted Appllication ![image](https://github.com/user-attachments/assets/ff58d80b-5ad6-4ddb-8af1-7b10ebf69f4e)
+10: Details Of Expenses  ![image](https://github.com/user-attachments/assets/98771464-2dbe-402d-8839-fb3ea7c44a82)
 
  
