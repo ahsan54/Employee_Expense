@@ -20,7 +20,7 @@ Automated Email Notifications:
 
                               On saving, the payment ID is linked to the expense, and the expense ID is linked to the payment, ensuring proper tracking.
 
-Portal Access: Employees can view their submitted expenses via the website.
+Portal Access: Employees can view their all submitted expenses status via the website.
 
 
 Security & Access Control:
